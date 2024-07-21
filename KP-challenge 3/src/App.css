@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  width: 100vw;
+}
+
+.cta {
+  width: 100%;
+  background-color: rgb(53, 76, 95);
+  color: white;
+}
+
+.content {
+  width: 50%;
+  margin-right: 50%;
+  padding-left: 10%;
+}
